@@ -1,0 +1,12 @@
+prefix=c:/Users/utkar/OneDrive/Desktop/Lalten/My/venv/Library
+exec_prefix=c:/Users/utkar/OneDrive/Desktop/Lalten/My/venv/Library
+libdir=c:/Users/utkar/OneDrive/Desktop/Lalten/My/venv/Library/lib
+includedir=c:/Users/utkar/OneDrive/Desktop/Lalten/My/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 

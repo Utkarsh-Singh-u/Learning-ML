@@ -1,0 +1,34 @@
+{
+  "build": "py310hd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python 3.10.16.*",
+    "python_abi * *_cp310"
+  ],
+  "extracted_package_dir": "c:\\Users\\utkar\\anaconda3\\pkgs\\cpython-3.10.16-py310hd8ed1ab_1",
+  "files": [],
+  "fn": "cpython-3.10.16-py310hd8ed1ab_1.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "c:\\Users\\utkar\\anaconda3\\pkgs\\cpython-3.10.16-py310hd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "5c7fe189f8761cd08a69924554c1ffab",
+  "name": "cpython",
+  "noarch": "python",
+  "package_tarball_full_path": "c:\\Users\\utkar\\anaconda3\\pkgs\\cpython-3.10.16-py310hd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "522b5ff2c5b1ebe0050ad15cd76a1e14696752eead790ab28e29977d7a8a99e6",
+  "size": 48888,
+  "subdir": "noarch",
+  "timestamp": 1733407928000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.10.16-py310hd8ed1ab_1.conda",
+  "version": "3.10.16"
+}
